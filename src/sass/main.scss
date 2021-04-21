@@ -1,4 +1,11 @@
 
+@font-face {
+  font-family: "bingo";
+  src: url('bingo.eot');
+  src: local('bingo');
+  src: url('bingo.svg#bingo') format('svg');
+  src: url('bingo.otf') format('opentype'); }
+
 // Font.
 $font: (
   primary: ("Roboto",Helvetica,sans-serif),
