@@ -459,6 +459,10 @@ img {
 
 @media only screen and (max-width: 600px) {
   html {
+    direction: rtl !important;
+text-align: right !important;
+font-family: faruma, 'mv iyyu nala', 'mv elaaf normal' !important;
+font-size: 14px !important;
     font-size: 100%;
   }
 
